@@ -84,7 +84,7 @@ class App extends React.Component {
             required
             onChange={this.handleChange}
           />
-          <button type="submit">Submit</button>
+          <button type="submit" className='btn btn-success'>Submit</button>
         </form>
 
         <h2>Enter OTP</h2>
@@ -96,7 +96,7 @@ class App extends React.Component {
             required
             onChange={this.handleChange}
           />
-          <button type="submit">Submit</button>
+          <button type="submit" className='btn btn-danger'>Submit</button>
         </form>
       </div>
     )
