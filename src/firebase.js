@@ -10,17 +10,17 @@ import 'firebase/compat/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyD2nXkpG6oDR7IY0sM3fy7Z9aegppfMz5I',
+  apiKey: '',
 
-  authDomain: 'otp-project-2-f7685.firebaseapp.com',
+  authDomain: '',
 
-  projectId: 'otp-project-2-f7685',
+  projectId: '',
 
-  storageBucket: 'otp-project-2-f7685.appspot.com',
+  storageBucket: '',
 
-  messagingSenderId: '326510549766',
+  messagingSenderId: '',
 
-  appId: '1:326510549766:web:706a534d843c8ff6259c87',
+  appId: '',
 }
 
 // Initialize Firebase
